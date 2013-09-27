@@ -1,0 +1,10 @@
+[vm_worker]
+executor_endpoint = 192.168.10.162:9999
+name = test 
+ip = 192.168.10.145
+port = 80
+job_id = 3
+task_id = 23
+os = ubuntu
+interface = eth0
+heartbeat_interval = 8
